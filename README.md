@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @invaluable-inc
 - 👀 I’m interested in data science
 - 🌱 I’m currently learning data science
-- 💞️ I’m looking to collaborate on data scientist
+- 💞️ I’m looking to collaborate with data scientists
 - 📫 How to reach me invaluableactions@gmail.com
 
 <!---
